@@ -1,0 +1,73 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Bullet.h(14,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Bullet.h(19,33): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Bullet.h(24,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Bullet.h(29,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Bullet.h(34,33): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Player.h(26,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\Player.h(31,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(63,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(67,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(71,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(75,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(97,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(97,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(105,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\LooterShooter\main.cpp(105,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  LooterShooter.vcxproj -> C:\Users\Administrator\Desktop\Game_Profun\Game_Dev\x64\Debug\LooterShooter.exe
